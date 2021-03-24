@@ -16,4 +16,4 @@ COPY --from=publish /app .
 # Padrão de container ASP.NET
 # ENTRYPOINT ["dotnet", "INFO-123.dll"]
 # Opção utilizada pelo Heroku
-CMD ASPNETCORE_URLS=http://*:$PORT dotnet info-123.dll
+CMD ASPNETCORE_URLS=http://*:$PORT dotnet Infos.dll
