@@ -1,8 +1,5 @@
 C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
-C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
 C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\Infos.StaticWebAssets.xml
 C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\Infos.exe
 C:\Users\Anderson Mendes\source\repos\Infos\bin\Debug\netcoreapp3.1\Infos.deps.json
@@ -185,3 +182,4 @@ C:\Users\Anderson Mendes\source\repos\Infos\obj\Debug\netcoreapp3.1\Razor\Views\
 C:\Users\Anderson Mendes\source\repos\Infos\obj\Debug\netcoreapp3.1\Razor\Views\Infoes\Edit.cshtml.g.cs
 C:\Users\Anderson Mendes\source\repos\Infos\obj\Debug\netcoreapp3.1\Razor\Views\Infoes\Index.cshtml.g.cs
 C:\Users\Anderson Mendes\source\repos\Infos\obj\Debug\netcoreapp3.1\Razor\Views\Infoes\ShowSearchForm.cshtml.g.cs
+C:\Users\Anderson Mendes\source\repos\Infos\obj\Debug\netcoreapp3.1\scopedcss\bundle\Infos.styles.css
