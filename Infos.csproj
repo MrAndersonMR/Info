@@ -15,4 +15,6 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
   </ItemGroup>
 
+  <ProjectExtensions><VisualStudio><UserProperties properties_4launchsettings_1json__JsonSchema="https://gitlab.com/-/snippets/2062623/raw/master/foundryvtt_template_schema.json" /></VisualStudio></ProjectExtensions>
+
 </Project>
